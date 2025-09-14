@@ -1,0 +1,8 @@
+{
+  "antilink": true,
+  "autoreact": true,
+  "alwaysOnline": true,
+  "autoViewStatus": true,
+  "strictMode": true,
+  "aliveText": "\u2705 Bot is alive and running!"
+}

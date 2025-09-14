@@ -1,0 +1,105 @@
+                                               TOOL COMMAND LIST
+
+
+1:QURAN
+LINK:https://apis.davidcyriltech.my.id/quran?surah=1
+KEY:{
+  "creator": "David Cyril",
+  "success": true,
+  "surah": {
+    "number": 1,
+    "name": {
+      "arabic": "سُورَةُ ٱلْفَاتِحَةِ",
+      "english": "Sura Al-Faatiha"
+    },
+    "type": "Meccan",
+    "ayahCount": 7,
+    "tafsir": {
+      "id": "Surat Al Faatihah (Pembukaan) yang diturunkan di Mekah dan terdiri dari 7 ayat adalah surat yang pertama-tama diturunkan dengan lengkap  diantara surat-surat yang ada dalam Al Quran dan termasuk golongan surat Makkiyyah. Surat ini disebut Al Faatihah (Pembukaan), karena dengan surat inilah dibuka dan dimulainya Al Quran. Dinamakan Ummul Quran (induk Al Quran) atau Ummul Kitaab (induk Al Kitaab) karena dia merupakan induk dari semua isi Al Quran, dan karena itu diwajibkan membacanya pada tiap-tiap sembahyang. Dinamakan pula As Sab'ul matsaany (tujuh yang berulang-ulang) karena ayatnya tujuh dan dibaca berulang-ulang dalam sholat."
+    },
+    "recitation": "http://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/001.mp3"
+  }
+}
+2:BIBLE
+LINK:https://apis.davidcyriltech.my.id/bible?reference=john+3:16
+KEY:{
+  "creator": "David Cyril",
+  "success": true,
+  "reference": "John 3:16",
+  "translation": "World English Bible",
+  "verses_count": 1,
+  "text": "\nFor God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.\n\n"
+}
+
+5:REMINI
+LINK:https://apis.davidcyriltech.my.id/remini?url=
+KEY:{
+  "status": false,
+  "creator": "David Cyril",
+  "error": "Need image link!"
+}
+6:VOICE AI
+LINK:https://apis.davidcyriltech.my.id/voiceai?text=david&model=
+KEY:{
+  "error": "Invalid 'model' parameter. Available models: miku, nahida, nami, ana, optimus_prime, goku, taylor_swift, elon_musk, mickey_mouse, kendrick_lamar, angela_adkinsh, eminem"
+}
+7:AI TEXT DETACTOR
+LINK:https://apis.davidcyriltech.my.id/api/detect?text=The%20Internet%20has%20revolutionized%20how%20people%20communicate,%20work,%20and%20learn.%20With%20just%20a%20few%20clicks,%20anyone%20can%20access%20a%20world%20of%20information,%20connect%20with%20others%20globally,%20and%20express%20their%20ideas%20freely.%20Social%20media%20platforms%20allow%20individuals%20to%20share%20their%20thoughts,%20daily%20lives,%20and%20creativity%20in%20real-time.%20Remote%20work%20and%20online%20education%20have%20become%20more%20common,%20offering%20flexibility%20and%20new%20opportunities.%20However,%20along%20with%20its%20benefits,%20the%20Internet%20also%20presents%20challenges%20like%20misinformation,%20data%20privacy%20issues,%20and%20cyberbullying.%20Therefore,%20it%20is%20essential%20to%20use%20digital%20tools%20responsibly%20and%20stay%20informed.%20When%20used%20wisely,%20the%20Internet%20remains%20a%20powerful%20force%20for%20progress%20and%20connection.
+KEY:{
+  "text": "The Internet has revolutionized how people communicate, work, and learn. With just a few clicks, anyone can access a world of information, connect with others globally, and express their ideas freely. Social media platforms allow individuals to share their thoughts, daily lives, and creativity in real-time. Remote work and online education have become more common, offering flexibility and new opportunities. However, along with its benefits, the Internet also presents challenges like misinformation, data privacy issues, and cyberbullying. Therefore, it is essential to use digital tools responsibly and stay informed. When used wisely, the Internet remains a powerful force for progress and connection.",
+  "result": {
+    "ai_score": 99.99535083770752,
+    "human_score": 0.004649162292480469,
+    "human_percent": "0%",
+    "ai_percent": "100%"
+  },
+  "error": null
+}
+
+11:IMDB
+LINK:https://apis.davidcyriltech.my.id/imdb?query=iron+man
+KEY:{
+  "status": true,
+  "creator": "David Cyril",
+  "query": "iron man",
+  "movie": {
+    "title": "Iron Man",
+    "year": "2008",
+    "rated": "PG-13",
+    "released": "02 May 2008",
+    "runtime": "126 min",
+    "genres": "Action, Adventure, Sci-Fi",
+    "director": "Jon Favreau",
+    "writer": "Mark Fergus, Hawk Ostby, Art Marcum",
+    "actors": "Robert Downey Jr., Gwyneth Paltrow, Terrence Howard",
+    "plot": "Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he's given a ride on enemy lines. That ride ends badly when Stark's Humvee that he's riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony's technology for other matters.",
+    "languages": "English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",
+    "country": "United States, Canada",
+    "awards": "Nominated for 2 Oscars. 24 wins & 73 nominations total",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "79/100"
+      }
+    ],
+    "metascore": "79",
+    "imdbRating": "7.9",
+    "votes": "1,183,300",
+    "boxoffice": "$319,034,126",
+    "imdbUrl": "https://www.imdb.com/title/tt0371746/"
+  }
+}
+
+19:QR GENERATOR
+LINK:https://apis.davidcyriltech.my.id/tools/qrcode?text=https://google.com
+KEY:ONLY QR KI PHOTO ATI HY
+

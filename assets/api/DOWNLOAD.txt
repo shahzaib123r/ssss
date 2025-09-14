@@ -1,0 +1,98 @@
+                  DOWNLOAD COMMANDS API:
+1:SONG
+LINK:https://apis.davidcyriltech.my.id/song?query=Faded
+KEY:{
+  "creator": "David Cyril",
+  "status": true,
+  "result": {
+    "title": "Alan Walker - Faded",
+    "video_url": "https://youtube.com/watch?v=60ItHLz5WEA",
+    "thumbnail": "https://img.youtube.com/vi/60ItHLz5WEA/hqdefault.jpg",
+    "duration": "3:33",
+    "views": 3850844626,
+    "published": "9 years ago",
+    "audio": {
+      "format": "MP3",
+      "quality": "128kbps",
+      "download_url": "https://jesse6.oceansaver.in/pacific/?tJevxGfkZItl3fZWYjOUEVp"
+    },
+    "video": {
+      "format": "MP4",
+      "quality": "360p",
+      "download_url": "https://gina22.oceansaver.in/pacific/?DbyhvZjpnGAbSYpBn1rNN74"
+    }
+  }
+}
+
+4:YTMP4
+LINK:https://apis.davidcyriltech.my.id/youtube/mp4?url=https://youtube.com/watch?v=q0hyYWKXF0Q
+KEY:{
+  "creator": "David Cyril",
+  "status": true,
+  "result": {
+    "title": "TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)",
+    "thumbnail": "https://img.youtube.com/vi/q0hyYWKXF0Q/hqdefault.jpg",
+    "url": "https://aiden90.oceansaver.in/pacific/?rv6L0xcyfdQYUUntzzXDbKf"
+  }
+}
+5:FB
+LINK:https://apis.davidcyriltech.my.id/facebook?url=https://www.facebook.com/share/v/15fNp5gHK4/
+KEY:{
+  "creator": "David Cyril",
+  "status": 200,
+  "success": true,
+  "result": {
+    "type": "video",
+    "title": "What a beautiful audition 🥹 | The X Factor",
+    "downloads": {
+      "sd": {
+        "quality": "SD",
+        "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQPPvA5G8OjMKFQ5b-CdVOf_THxUDyCStTys5JH0Xy0cjFdh81wqJhScTuYgF5IU_BTHRnEgx6_8CbOUWW_EMyyz.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=LcfAGU6ZPo8Q7kNvwFIhWTr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQ1MjQzMTE1MjMxNzY1LCJhc3NldF9hZ2VfZGF5cyI6Nzg3LCJ2aV91c2VjYXNlX2lkIjoxMDEyMiwiZHVyYXRpb25fcyI6NDIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0u00253D&ccb=17-1&_nc_gid=Ec5-xBoqCgiETmX4825Emw&_nc_zt=28&oh=00_AfXtC2MwhuX3TIM0pwKhNfn8OlxdUSmo0bxkdZ2ffThKxQ&oe=689D5FC0&bitrate=295538&tag=sve_sd&dl=1",
+        "size": "14.89 MB"
+      },
+      "hd": {
+        "quality": "HD",
+        "url": "https://video-iad3-1.xx.fbcdn.net/o1/v/t2/f2/m366/AQN-delIfTa_pKz3ESPj1Ki_WDiTmyMpovQKzE4WirDnkaCbGCfXaZBpxgu0FnqVmiWjmYC3MZ1_BS1OFwfff5LX--W7X-kJN_bIUHQOUjxK7A.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=video-iad3-1.xx.fbcdn.net&_nc_ohc=VAtD0vGeUscQ7kNvwFdusk_&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNzIwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE0NTI0MzExNTIzMTc2NSwiYXNzZXRfYWdlX2RheXMiOjc4NywidmlfdXNlY2FzZV9pZCI6MTAxMjIsImR1cmF0aW9uX3MiOjQyMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=639048eb8b6cff0b&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC8wQzQyREFDRjcxQUQ4ODRBNUJGODg1RTNDMUYzRkFBQl9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dCUkVDeFVMVnliN1I3WUFBUDFFalhXRTlkUTJidjRHQUFBRhUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq6NDEoYZCFQIoAkMzLBdAemj1wo9cKRgZZGFzaF9oMjY0LWJhc2ljLWdlbjJfNzIwcBEAdQJllJ4BAA&_nc_gid=Ec5-xBoqCgiETmX4825Emw&_nc_zt=28&oh=00_AfWjrZ4-RWCYxz5Gy14guifGnXBZ_97AL0SDnlGCFdsNvQ&oe=689D7589&bitrate=868498&tag=dash_h264-basic-gen2_720p&dl=1",
+        "size": "46.33 MB"
+      }
+    }
+  }
+}
+
+7:TIKTOK
+LINK:https://apis.davidcyriltech.my.id/download/tiktokv3?url=https://vm.tiktok.com/ZMkMuEmmd
+KEY:{
+  "success": true,
+  "author": "nonye_chi3",
+  "description": "Got to know the meaning of lisp through this😂😂….She’s good✅  #pengamerapbattle #battlerap #ukrap #fyp #rapbattle #ukmusic #ukmemes #freestyle ",
+  "thumbnail": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/ootioq4aIJ7CkUsAjhPBfggIOFAiArNotcJzI7~tplv-tiktokx-360p.image?dr=10375&refresh_token=47f65976&x-expires=1754845200&x-signature=reh0s4Ed%2BpmmjF3AV5GFZ4G89rc%3D&t=4d5b0474&ps=13740610&shp=d05b14bd&shcp=34ff8df6&idc=no1a&s=AWEME_DETAIL&ftpl=1",
+  "video": "https://api-download.downloader.bot/api/download?vid=750e58aad3b13f4921c9eb1c4950926cmp4",
+  "audio": "https://api-download.downloader.bot/api/download?vid=c6684ae130a47c0e5d1ef47136487408mp3",
+  "uploaded_at": 1734453665
+}
+
+9:INSTAGRAM/IG
+LINK:https://api.fgmods.xyz/api/downloader/igdl?url=${encodeURIComponent(igUrl)}&apikey=E8sfLg9l
+KEY:{
+    "status": false,
+    "code": 403,
+    "message": "❌ Error: La clave API 'E8sfLg9l' no es válida o no está registrada. ¡Regístrese antes de usar el servicio!"
+}
+10:APK
+LINK:https://apis-malvin.vercel.app/download/apkfab?url=https%3A%2F%2Fapkfab.com%2Fwhatsapp-messenger%2Fcom.whatsapp
+KEY:{
+  "status": true,
+  "creator": "Malvin King",
+  "result": {}
+}
+
+13:SPOTIFY
+LINK:https://apis-malvin.vercel.app/download/spotify?q=spectre
+KEY:{
+  "status": true,
+  "creator": "Malvin King",
+  "result": {
+    "title": "Radiohead - Spectre",
+    "downloadLink": "https://api.fabdl.com/spotify/download-mp3/a29e4ad263b403f66f27d2fbddce4389"
+  }
+}

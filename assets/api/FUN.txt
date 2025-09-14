@@ -1,0 +1,40 @@
+
+                                               FUN COMMAD LIST:
+
+
+
+1:TRUTH
+LINK:https://apis.davidcyriltech.my.id/truth
+KEY:{
+  "creator": "David Cyril",
+  "status": 200,
+  "success": true,
+  "type": "TRUTH",
+  "question": "When was a time that someone really betrayed your trust?"
+}
+2:DARE
+LINK:https://apis.davidcyriltech.my.id/dare
+KEY:{
+  "creator": "David Cyril",
+  "status": 200,
+  "success": true,
+  "type": "DARE",
+  "question": "Name as many types of car as you can"
+}
+3:PICKUP LINES
+LINK:https://apis.davidcyriltech.my.id/pickupline
+KEY:{
+  "creator": "David Cyril",
+  "status": 200,
+  "success": true,
+  "pickupline": "I'm not sure if you know this, but you're the reason I believe in love at first sight."
+}
+4:FACTS
+LINK:https://apis.davidcyriltech.my.id/fact
+KEY:{
+  "creator": "David Cyril",
+  "status": 200,
+  "success": true,
+  "fact": "The first owner of the Marlboro Company died of lung cancer."
+}
+
